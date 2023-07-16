@@ -1,0 +1,4 @@
+.vscode/
+db.sqlite3
+API/__pycache__
+music_controller/__pycache__
